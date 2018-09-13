@@ -1,0 +1,27 @@
+_repo: Taxidermy-without-a-Teacher-Comprising-a-Complete-Manual-of-Instruction-for-Preparing-and-Pre__51439
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Manton, Walter Porter
+    alias: Manton, W. P. (Walter Porter)
+    birthdate: 1857
+    deathdate: 1925
+    gutenberg_agent_id: '46411'
+    url: http://www.gutenberg.org/2009/agents/46411
+description: ''
+gutenberg_issued: '2016-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51439'
+  lccn: 06016968
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Taxidermy'
+- GITenberg
+title: "Taxidermy without a Teacher\r\nComprising a Complete Manual of Instruction\
+  \ for Preparing and Preserving Birds, Animals and Fishes"
+url: http://www.gutenberg.org/ebooks/51439
